@@ -1,0 +1,26 @@
+{
+  "name": "react-native-open-payment",
+  "version": "0.0.1",
+  "description": "OPEN React Native SDK lets you seamlessly integrate OPEN Payment Gateway with your React-Native app and start collecting payments from your customers.",
+  "main": "src/index",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "repository": "https://github.com/IntelliJAbhishek/react-native-open-payment",
+  "author": "Abhishek Singh <prince9singh@gmail.com> (https://github.com/IntelliJAbhishek)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IntelliJAbhishek/react-native-open-payment/issues"
+  },
+  "homepage": "https://github.com/IntelliJAbhishek/react-native-open-payment#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
